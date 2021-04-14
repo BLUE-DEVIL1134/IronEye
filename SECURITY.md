@@ -1,5 +1,13 @@
 ## Supported Versions
 
+
+## V4 Series
+| Version | Supported          |
+| ------- | ------------------ |
+| 4.0.0   | :white_check_mark: |
+
+
+## V3 Series (Deprecated + No Support)
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0   | :white_check_mark: |
